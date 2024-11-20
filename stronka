@@ -1,0 +1,159 @@
+<!doctype html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+
+        <title>KUCHNIA WŁOSKA</title>
+
+        <!-- Load external CSS styles -->
+        <link rel="stylesheet" href="styles.css">
+
+    </head>
+
+    <body>
+        <body style="background-color:Linen;">
+
+
+        <h1 style="background-color:Olive;"><sub>***</sub><em><b>KUCHNIA WŁOSKA</em></b><sub>***</sub></h1>
+
+        <h2 style="background-color:Olive;">Parę słów o kuchni włoskiej...</h2> 
+        <p1 style="text-align:left;"><b>Kuchnia włoska</b> słynie z prostoty i jakości składników,
+             takich jak oliwa z oliwek, pomidory, świeże zioła i sery. 
+             Popularne dania to <mark>pizza, pasta, risotto i lasagna.</mark> 
+             Każdy region Włoch oferuje unikalne specjały, 
+             od dań z owoców morza na południu po aromatyczne sery i ragù bolońskie na północy.</p1>
+        <br><p1>    </p1>
+        <br><img src="https://www.pieknowdomu.pl/media/magefan_blog/pizza-04.jpg" 
+        alt="Włoska pizza" width="500" height="270">
+        
+
+       <p><a href="https://sklep.biobabalscy.pl/ciasto-na-prawdziwa-wloska-pizze">Przepis na włoską pizzę!</a></p>
+        <br><p1>                      </p1>
+
+        <br><p1 style="text-align:left;"><b>Najpopularniejsze dania:</b></p1>
+        
+        <ul>
+        <li><b>Pizza</b> – Cienkie ciasto z sosem pomidorowym, mozzarellą i świeżą bazylią; klasyczna margherita 
+                to najprostsza i najbardziej ikoniczna wersja.</li>
+
+        <li><b>Pasta</b> – Różnorodne makarony (jak spaghetti, tagliatelle, penne) podawane z sosami: 
+                carbonara (z jajkiem i pancettą), bolognese (mięsny sos pomidorowy) 
+                czy pesto (bazylia, oliwa, orzeszki piniowe).</li>
+
+        <li><b>Risotto</b> – Kremowe danie z ryżu gotowanego w bulionie, 
+                z dodatkami jak grzyby, owoce morza lub szafran,
+                popularne szczególnie w północnych Włoszech.</li>
+
+        <li><b>Lasagna</b> – Warstwowa zapiekanka z płatów makaronu,
+                sosu bolognese, beszamelu i sera, pieczona na złocisty kolor.</li><br>             
+        </ul>
+<hr>
+        <h2 style="background-color:Olive;">Włoskie desery...</h2>
+
+        <p1 style="text-align:left;"><b>Włoskie desery</b> to prawdziwa uczta 
+            dla zmysłów. <mark>Tiramisu</mark> łączy aromatyczną kawę z kremowym mascarpone, podczas gdy 
+            <mark>panna cotta</mark> zachwyca swoją gładką teksturą. <mark>Cannoli</mark> to chrupiące rurki
+             z nadzieniem z ricotty, a <mark>gelato</mark> oferuje intensywne smaki i 
+             aksamitną konsystencję. Na koniec, <mark>sfogliatella</mark> z Neapolu zaskakuje 
+             chrupiącą skorupką i słodkim nadzieniem. Każdy z tych deserów 
+             odzwierciedla pasję włoskiej kuchni i sprawia, że posiłek kończy
+              się niezapomnianym akcentem.</p1>
+        <br><p1>    </p1>
+
+        <br><img src="https://images.iberion.media/images/1080/8k_HI_Xc_C_Ya_F_Meoi_F_Sm_Ds_Nc_tiramisu_875cefd7d2.png" 
+        alt="Tiramisu" width="500" height="270">
+        <p><a href="https://fotokulinarnie.pl/oryginalne-wloskie-tiramisu/">Przepis na włoskie tiramisu!</a></p>
+        <br><p1>                      </p1>
+
+        <br><p1 style="text-align:left;"><b>Najpopularniejsze desery:</b></p1>
+
+
+        <ul>
+        <li><b>Tiramisu</b> – Delikatny deser z nasączonych kawą biszkoptów, 
+                przełożonych kremem z mascarpone, jajek i cukru, posypany kakao. 
+                Jeden z najbardziej znanych deserów Włoch.</li>
+        <li><b>Panna cotta</b> – Kremowy deser z gotowanej śmietanki, cukru i 
+                wanilii, podawany często z owocowym sosem lub karmelem. 
+                Jest lekki i ma delikatną konsystencję.</li>
+        <li><b>Cannoli</b> – Chrupiące rurki smażone na głębokim oleju, nadziewane
+                 kremem z ricotty, często z dodatkiem kandyzowanych owoców 
+                 lub czekolady. Pochodzi z Sycylii i jest wyjątkowo sycący.</li>
+        <li><b>Gelato</b> – Włoskie lody, bardziej gęste i intensywne w smaku od
+                 tradycyjnych lodów. Dostępne w wielu smakach, od klasycznej 
+                 wanilii po pistację i owoce.</li>
+            <li><b>Sfogliatella</b> – Kruche ciasto w kształcie muszli, nadziewane 
+                słodkim kremem z ricotty, czasem z dodatkiem skórki pomarańczowej
+                 i cynamonu. Typowy przysmak Neapolu.</li>
+        </ul>
+<hr>
+        <h2 style="background-color:Olive;" >Gdzie zjeść? - najpopularniejsze 
+        restauracje we Włoszech...</h2> 
+
+        <p1 style="text-align:left;">Oto lista <b>10 najbardziej znanych 
+        włoskich restauracji</b>, które zdobyły uznanie na całym świecie.
+        Każda z tych restauracji oferuje wyjątkowe doświadczenia 
+        kulinarne, które oddają esencję włoskiej kuchni. </p1>
+        <br><p1>  </p1>
+       
+
+        <br> <img src="https://lh3.googleusercontent.com/p/AF1QipOa3j5-Xl0WC9fnfsQ6X-dxPl83WnJYjlHYBlSN=s680-w680-h510" 
+        alt="Danie z restauracji La Pergola" style="float:center;width="200"; height="300">
+        <img src="https://lh3.googleusercontent.com/p/AF1QipO7CK-CKXB1GZlBqyH2GgIe7Y2-0Ywxzyxk1ENp=s680-w680-h510" 
+        alt="Danie z restauracji La Pergola" style="float:center;width="200"; height="300">
+         <p><a href="https://romecavalieri.com/la-pergola/">Sprawdź menu!</a></p>
+         <br><p1>   </p1>
+        
+        
+
+        <ol>
+        <li><b>Osteria Francescana (Modena) </b>– 
+        Prowadzona przez szefa kuchni Massimo Botturę,
+         wielokrotnie uznawana za najlepszą restaurację na świecie.</li>
+
+        <li><b>La Pergola (Rzym)</b> –
+        Restauracja z trzema gwiazdkami Michelin, prowadzona przez 
+        szefa kuchni Heinz Beck, znana z wyjątkowej kuchni i 
+        wspaniałego widoku na miasto.</li>
+
+        <li><b>Da Vittorio (Brusaporto)</b> – 
+        Trzygwiazdkowa restauracja, znana z innowacyjnego podejścia do
+        tradycyjnych potraw włoskich, prowadzona przez rodzinę Cerea.</li>
+
+        <li><b>Enoteca Pinchiorri (Florencja)</b> – 
+        Elegancka restauracja z gwiazdkami Michelin, słynąca z doskonałej 
+        kuchni i imponującej karty win.</li>
+
+        <li><b>Il Buco (Siena)</b> – Popularne miejsce, które łączy 
+        tradycyjne potrawy z nowoczesnymi technikami kulinarnymi.</li>
+
+        <li><b>Ristorante Da Enzo al 29 (Rzym)</b> – Urokliwa trattoria w
+        Trastevere, znana z klasycznych rzymskich dań, takich jak cacio e
+        pepe i carbonara.</li>
+
+        <li><b>Trattoria Da Teo (Rzym)</b> – Kolejna znana trattoria, która 
+        serwuje autentyczne rzymskie jedzenie w przyjemnej atmosferze.</li>
+
+        <li><b>Osteria le Vecie (Bologna)</b> – Miejsce, które słynie z 
+        tradycyjnej bolońskiej kuchni, w tym z makaronu tagliatelle al ragù.</li>
+
+        <li><b>Cipriani (Wenecja)</b> – Legendarny lokal, który łączy 
+        elegancję z klasycznymi potrawami, takimi jak spaghetti al pomodoro.</li>
+
+        <li><b>Pizzeria Gino Sorbillo (Neapol)</b> – Jedna z najbardziej 
+        znanych pizzerii w Neapolu, słynąca z autentycznej pizzy 
+        neapolitańskiej.</li>
+        </ol>
+<hr>
+
+
+
+
+
+        
+        <!-- Load external JavaScript -->
+        <script src="scripts.js"></script>
+        
+    </body>
+
+</html>
